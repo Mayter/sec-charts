@@ -1,8 +1,8 @@
-# sec-chart
+# sec-charts
 
 # shentoushi.top
 
-有关信息安全的一些截图及流程图分享「Security Flow chart」。
+有关信息安全的一些截图及流程图分享「Security Flow charts」。
 
 目前包含如下的一些图片：
 ```
