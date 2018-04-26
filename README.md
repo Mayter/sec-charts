@@ -269,5 +269,3 @@
 
 根据另外一个项目增加的更多思维导图[Mind-Map](https://github.com/SecWiki/sec-chart)
 另外一个项目[Mind-Map](https://github.com/phith0n/Mind-Map)也提供了一些安全方面的脑图。
-# sec-charts
-# sec-charts
