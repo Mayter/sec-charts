@@ -2,6 +2,8 @@
 
 # shentoushi.top
 
+#### copy了sec-wiki的思维导图和我收藏的思维导图。
+
 有关信息安全的一些截图及流程图分享「Security Flow charts」。
 
 目前包含如下的一些图片：
